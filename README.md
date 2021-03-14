@@ -1,3 +1,3 @@
-![desktop version](./Screenshot(2).png)
-![mobile version top](./Screenshot(3).png)
-![mobile version bottom](./Screenshot(4).png)
+![desktop version](./desktop.png)
+![mobile version top](./mobiletop.png)
+![mobile version bottom](./mobilebottom.png)
